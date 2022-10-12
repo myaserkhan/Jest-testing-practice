@@ -1,0 +1,22 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myaserkhan/Jest-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myaserkhan/Jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/myaserkhan/Jest-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
